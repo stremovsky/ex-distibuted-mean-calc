@@ -1,3 +1,3 @@
 # ex-distibuted-mean-calc
 
-This is a privacy enhancing technology (PET) project caluculating mean and standard deviation in a privacy preserving way
+This is a Privacy Enhancing Technology (PET) project that calculates the mean and standard deviation while preserving privacy.
